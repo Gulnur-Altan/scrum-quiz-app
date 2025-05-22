@@ -1,0 +1,482 @@
+[
+    {
+        "question": {
+            "tr": "Scrum'da aşağıdakilerden hangisi bir event değildir?",
+            "en": "Which of the following is NOT a Scrum event?"
+        },
+        "options": {
+            "tr": [
+                "Sprint Planlaması",
+                "Günlük Scrum",
+                "Kod İncelemesi",
+                "Sprint Retrospektifi"
+            ],
+            "en": [
+                "Sprint Planning",
+                "Daily Scrum",
+                "Code Review",
+                "Sprint Retrospective"
+            ]
+        },
+        "answer": {
+            "tr": "Kod İncelemesi",
+            "en": "Code Review"
+        }
+    },
+    {
+        "question": {
+            "tr": "Scrum'da sprint süresi en fazla ne kadar olabilir?",
+            "en": "What is the maximum length of a Sprint in Scrum?"
+        },
+        "options": {
+            "tr": [
+                "2 hafta",
+                "3 hafta",
+                "4 hafta",
+                "6 hafta"
+            ],
+            "en": [
+                "2 weeks",
+                "3 weeks",
+                "4 weeks",
+                "6 weeks"
+            ]
+        },
+        "answer": {
+            "tr": "4 hafta",
+            "en": "4 weeks"
+        }
+    },
+    {
+        "question": {
+            "tr": "Product Backlog’un sahibi kimdir?",
+            "en": "Who owns the Product Backlog?"
+        },
+        "options": {
+            "tr": [
+                "Scrum Master",
+                "Geliştirme Takımı",
+                "Product Owner",
+                "Müşteri"
+            ],
+            "en": [
+                "Scrum Master",
+                "Development Team",
+                "Product Owner",
+                "Customer"
+            ]
+        },
+        "answer": {
+            "tr": "Product Owner",
+            "en": "Product Owner"
+        }
+    },
+    {
+        "question": {
+            "tr": "Scrum takımında kaç ana rol vardır?",
+            "en": "How many primary roles are in a Scrum team?"
+        },
+        "options": {
+            "tr": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ],
+            "en": [
+                "2",
+                "3",
+                "4",
+                "5"
+            ]
+        },
+        "answer": {
+            "tr": "3",
+            "en": "3"
+        }
+    },
+    {
+        "question": {
+            "tr": "Scrum Master'ın temel görevi nedir?",
+            "en": "What is the primary responsibility of the Scrum Master?"
+        },
+        "options": {
+            "tr": [
+                "Takımı yönetmek",
+                "Scrum'ı uygulamada takıma destek olmak",
+                "Kod yazmak",
+                "Müşteriyle görüşmek"
+            ],
+            "en": [
+                "Manage the team",
+                "Support the team in applying Scrum",
+                "Write code",
+                "Communicate with customer"
+            ]
+        },
+        "answer": {
+            "tr": "Scrum'ı uygulamada takıma destek olmak",
+            "en": "Support the team in applying Scrum"
+        }
+    },
+    {
+        "question": {
+            "tr": "Daily Scrum toplantısı ne kadar sürmelidir?",
+            "en": "How long should the Daily Scrum last?"
+        },
+        "options": {
+            "tr": [
+                "15 dakika",
+                "30 dakika",
+                "1 saat",
+                "Süre sınırsız"
+            ],
+            "en": [
+                "15 minutes",
+                "30 minutes",
+                "1 hour",
+                "No time limit"
+            ]
+        },
+        "answer": {
+            "tr": "15 dakika",
+            "en": "15 minutes"
+        }
+    },
+    {
+        "question": {
+            "tr": "'Definition of Done' neden önemlidir?",
+            "en": "Why is the 'Definition of Done' important?"
+        },
+        "options": {
+            "tr": [
+                "Kod kalitesini ölçmek için",
+                "Bitmiş işi tanımlamak için",
+                "Zamanı takip etmek için",
+                "Üretkenliği artırmak için"
+            ],
+            "en": [
+                "To measure code quality",
+                "To define when work is done",
+                "To track time",
+                "To increase productivity"
+            ]
+        },
+        "answer": {
+            "tr": "Bitmiş işi tanımlamak için",
+            "en": "To define when work is done"
+        }
+    },
+    {
+        "question": {
+            "tr": "Scrum'da sprint süresince değişiklik yapılabilir mi?",
+            "en": "Can changes be made during a Sprint in Scrum?"
+        },
+        "options": {
+            "tr": [
+                "Evet, her zaman",
+                "Hayır, hiçbir şekilde",
+                "Sadece Scrum Master onayı ile",
+                "Hayır, Sprint hedefi değişemez"
+            ],
+            "en": [
+                "Yes, anytime",
+                "No, never",
+                "Only with Scrum Master approval",
+                "No, the Sprint Goal must not change"
+            ]
+        },
+        "answer": {
+            "tr": "Hayır, Sprint hedefi değişemez",
+            "en": "No, the Sprint Goal must not change"
+        }
+    },
+    {
+        "question": {
+            "tr": "Sprint Planlama toplantısının amacı nedir?",
+            "en": "What is the goal of the Sprint Planning meeting?"
+        },
+        "options": {
+            "tr": [
+                "Takımı değerlendirmek",
+                "Sprint için yapılacak işleri planlamak",
+                "Kod incelemek",
+                "Sunum yapmak"
+            ],
+            "en": [
+                "Evaluate the team",
+                "Plan the work for the Sprint",
+                "Review code",
+                "Make a presentation"
+            ]
+        },
+        "answer": {
+            "tr": "Sprint için yapılacak işleri planlamak",
+            "en": "Plan the work for the Sprint"
+        }
+    },
+    {
+        "question": {
+            "tr": "Sprint Review sırasında ne yapılır?",
+            "en": "What happens during the Sprint Review?"
+        },
+        "options": {
+            "tr": [
+                "Yeni iş seçilir",
+                "Takım ödüllendirilir",
+                "Tamamlanan işler gözden geçirilir",
+                "Kod test edilir"
+            ],
+            "en": [
+                "New work is selected",
+                "The team is rewarded",
+                "Completed work is reviewed",
+                "Code is tested"
+            ]
+        },
+        "answer": {
+            "tr": "Tamamlanan işler gözden geçirilir",
+            "en": "Completed work is reviewed"
+        }
+    },
+    {
+        "question": {
+            "tr": "Scrum'da hangi rol iş önceliklendirmesinden sorumludur?",
+            "en": "Which role is responsible for backlog prioritization in Scrum?"
+        },
+        "options": {
+            "tr": [
+                "Scrum Master",
+                "Geliştirici",
+                "Product Owner",
+                "Testçi"
+            ],
+            "en": [
+                "Scrum Master",
+                "Developer",
+                "Product Owner",
+                "Tester"
+            ]
+        },
+        "answer": {
+            "tr": "Product Owner",
+            "en": "Product Owner"
+        }
+    },
+    {
+        "question": {
+            "tr": "Scrum takımında maksimum kaç kişi olabilir?",
+            "en": "What is the recommended maximum size of a Scrum Team?"
+        },
+        "options": {
+            "tr": [
+                "5",
+                "9",
+                "12",
+                "15"
+            ],
+            "en": [
+                "5",
+                "9",
+                "12",
+                "15"
+            ]
+        },
+        "answer": {
+            "tr": "9",
+            "en": "9"
+        }
+    },
+    {
+        "question": {
+            "tr": "Scrum'da 'increment' nedir?",
+            "en": "What is an 'increment' in Scrum?"
+        },
+        "options": {
+            "tr": [
+                "Takım toplantısı",
+                "Kod standardı",
+                "Sprint sonu çıktısı",
+                "Scrum planı"
+            ],
+            "en": [
+                "Team meeting",
+                "Code standard",
+                "Sprint output",
+                "Scrum plan"
+            ]
+        },
+        "answer": {
+            "tr": "Sprint sonu çıktısı",
+            "en": "Sprint output"
+        }
+    },
+    {
+        "question": {
+            "tr": "Sprint Retrospective amacı nedir?",
+            "en": "What is the purpose of Sprint Retrospective?"
+        },
+        "options": {
+            "tr": [
+                "Kodları test etmek",
+                "Ürün tanıtmak",
+                "Süreci iyileştirmek",
+                "Takımı değiştirmek"
+            ],
+            "en": [
+                "Test code",
+                "Show the product",
+                "Improve the process",
+                "Change the team"
+            ]
+        },
+        "answer": {
+            "tr": "Süreci iyileştirmek",
+            "en": "Improve the process"
+        }
+    },
+    {
+        "question": {
+            "tr": "Product Backlog nasıl evrilir?",
+            "en": "How does the Product Backlog evolve?"
+        },
+        "options": {
+            "tr": [
+                "Sprint ile değişmez",
+                "Sabit kalır",
+                "Güncellenir ve detaylandırılır",
+                "Silinerek"
+            ],
+            "en": [
+                "It doesn't change",
+                "It is fixed",
+                "It is updated and refined",
+                "It is deleted"
+            ]
+        },
+        "answer": {
+            "tr": "Güncellenir ve detaylandırılır",
+            "en": "It is updated and refined"
+        }
+    },
+    {
+        "question": {
+            "tr": "Scrum Master takımın ne şekilde korunmasından sorumludur?",
+            "en": "How does the Scrum Master protect the team?"
+        },
+        "options": {
+            "tr": [
+                "Kodlama yaparak",
+                "Dış müdahaleleri engelleyerek",
+                "Ürün sunarak",
+                "Testleri yazarak"
+            ],
+            "en": [
+                "By coding",
+                "By removing external interference",
+                "By delivering the product",
+                "By writing tests"
+            ]
+        },
+        "answer": {
+            "tr": "Dış müdahaleleri engelleyerek",
+            "en": "By removing external interference"
+        }
+    },
+    {
+        "question": {
+            "tr": "Geliştirme Takımı kiminle Sprint hedefi belirler?",
+            "en": "With whom does the Development Team define the Sprint Goal?"
+        },
+        "options": {
+            "tr": [
+                "Product Owner",
+                "Scrum Master",
+                "Yöneticiler",
+                "Test Ekibi"
+            ],
+            "en": [
+                "Product Owner",
+                "Scrum Master",
+                "Managers",
+                "Testing Team"
+            ]
+        },
+        "answer": {
+            "tr": "Product Owner",
+            "en": "Product Owner"
+        }
+    },
+    {
+        "question": {
+            "tr": "Scrum'da işin 'bitti' sayılabilmesi için ne gerekir?",
+            "en": "What is required for work to be considered 'Done' in Scrum?"
+        },
+        "options": {
+            "tr": [
+                "Yazılması",
+                "Test edilmesi",
+                "'Done' tanımını karşılaması",
+                "Onaylanması"
+            ],
+            "en": [
+                "Being written",
+                "Being tested",
+                "Meeting the Definition of Done",
+                "Being approved"
+            ]
+        },
+        "answer": {
+            "tr": "'Done' tanımını karşılaması",
+            "en": "Meeting the Definition of Done"
+        }
+    },
+    {
+        "question": {
+            "tr": "Scrum'daki artefact'lar nelerdir?",
+            "en": "Which are the artifacts in Scrum?"
+        },
+        "options": {
+            "tr": [
+                "Product Backlog, Sprint Backlog, Increment",
+                "Plan, Kod, Test",
+                "Sprint, Product, Review",
+                "Product, User, Sprint"
+            ],
+            "en": [
+                "Product Backlog, Sprint Backlog, Increment",
+                "Plan, Code, Test",
+                "Sprint, Product, Review",
+                "Product, User, Sprint"
+            ]
+        },
+        "answer": {
+            "tr": "Product Backlog, Sprint Backlog, Increment",
+            "en": "Product Backlog, Sprint Backlog, Increment"
+        }
+    },
+    {
+        "question": {
+            "tr": "Scrum neden çerçeve (framework) olarak tanımlanır?",
+            "en": "Why is Scrum defined as a framework?"
+        },
+        "options": {
+            "tr": [
+                "Çünkü katı kuralları vardır",
+                "Yalnızca yazılım için uygundur",
+                "Esnek ve genişletilebilir olduğu için",
+                "Kurumsal şirketler için tasarlanmıştır"
+            ],
+            "en": [
+                "Because it has strict rules",
+                "It is only for software",
+                "Because it is flexible and extensible",
+                "It is designed for enterprises"
+            ]
+        },
+        "answer": {
+            "tr": "Esnek ve genişletilebilir olduğu için",
+            "en": "Because it is flexible and extensible"
+        }
+    }
+]
