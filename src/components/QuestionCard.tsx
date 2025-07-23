@@ -5,11 +5,10 @@ interface QuestionCardProps {
     question: any;
     onAnswer: (answer: string) => void;
     index: number;
-    total: number;
     language: 'tr' | 'en';
 }
 
-function QuestionCard({ question, onAnswer, index, total, language }: QuestionCardProps) {
+export default function QuestionCard({ question, onAnswer, index, language }: QuestionCardProps) {
     const [selected, setSelected] = useState<string | null>(null);
 
     return (
@@ -42,4 +41,4 @@ function QuestionCard({ question, onAnswer, index, total, language }: QuestionCa
     );
 }
 
-export default QuestionCard;
+
